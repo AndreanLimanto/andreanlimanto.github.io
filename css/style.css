@@ -7,7 +7,7 @@
   body {
     font-size: 12px;
     background-color: lightskyblue;
-    background-image: url(https://images4.imagebam.com/47/f5/32/ME4D2JE_o.png);
+    background-image: url(img/bg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -54,7 +54,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(https://images4.imagebam.com/60/c6/ab/ME4CKOQ_o.jpg);
+    background-image: url(img/welcome-section.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -109,7 +109,7 @@
   
   .projects {
     background-color: lightslategray;
-    background-image: url(https://images4.imagebam.com/47/ca/ed/ME4D6JE_o.png);
+    background-image: url(img/grid-project.png);
     box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.5);
     border-radius: 25px;
     font-family: deneane, sans-serif;
@@ -158,7 +158,7 @@
     width: 100%;
     height: 100vh;
     padding: 0 2rem;
-    background-image: url(https://images4.imagebam.com/b6/2a/ec/ME4D33Z_o.jpg);
+    background-image: url(img/contact-section.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
